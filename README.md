@@ -24,13 +24,13 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+![screencapture-127-0-0-1-5500-index-html-2022-02-20-17_16_01](https://user-images.githubusercontent.com/79658534/154849674-75d5354b-e05d-4c3c-9505-c83d7cfb0086.png)
 
-![](./screenshot.jpg)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://virag-ky.github.io/Order-Summary-Component/](https://virag-ky.github.io/Order-Summary-Component/)
 
 ## My process
 
@@ -40,8 +40,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-
-### What I learned
 
 ## Author
 
