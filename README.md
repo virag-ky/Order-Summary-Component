@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-card-WwFvJNAiz](https://www.frontendmentor.io/solutions/order-summary-card-WwFvJNAiz)
 - Live Site URL: [https://virag-ky.github.io/Order-Summary-Component/](https://virag-ky.github.io/Order-Summary-Component/)
 
 ## My process
